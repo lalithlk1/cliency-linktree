@@ -21,7 +21,7 @@ links = [
     {"title": "🌐 Visit our Website", "url": "https://dub.sh/HpNYwqH"},
     {"title": "💬 WhatsApp Me (Direct)", "url": "https://dub.sh/QpfIZnM"}, # Replace with your number
     {"title": "📩 Book a Discovery Call", "url": "https://dub.sh/OF4NcEU"},
-    {"title": "📺 Watch My Latest YouTube Video", "url": "https://youtube.com/@lalith.io1"},
+    {"title": "📺 Watch My Latest YouTube Video", "url": "https://yt.openinapp.co/mio3ivy"},
     {"title": "👔 Connect on LinkedIn", "url": "https://linkedin.com/in/lalithlk1"},
     {"title": "💬 DM me on Insta","url": "https://instagram.com/lalith.io"},
 ]
@@ -40,6 +40,7 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
 
 
 
