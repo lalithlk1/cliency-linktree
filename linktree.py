@@ -5,14 +5,10 @@ import streamlit as st
 st.set_page_config(page_title="Lalith | Cliency", page_icon="⚡", layout="centered")
 
 # 2. PROFILE SECTION
-# We use columns to center the image perfectly
 col1, col2, col3 = st.columns([1, 2, 1])
 
 with col2:
-    # Make sure you have a file named 'profile.png' in your folder!
-    # If not, comment out the next line by adding a # at the start
-    # st.image("profile.png", width=150) 
-    pass # Remove this 'pass' when you uncomment the image line above
+    st.image("profile.jpeg", width=150)
 
 st.markdown("""
     <div style='text-align: center;'>
@@ -48,4 +44,5 @@ st.markdown("""
     <div style='text-align: center; color: grey;'>
         <small>© 2026 Cliency Media. Built with Python 🐍</small>
     </div>
+
 """, unsafe_allow_html=True)
