@@ -4,12 +4,6 @@ import streamlit as st
 # We set the page title and icon (what you see in the browser tab)
 st.set_page_config(page_title="Lalith | Cliency", page_icon="⚡", layout="centered")
 
-# 2. PROFILE SECTION
-col1, col2, col3 = st.columns([1, 2, 1])
-
-with col2:
-    st.image("profile.jpeg", width=150)
-
 st.markdown("""
     <div style='text-align: center;'>
         <h1>Lalith.io</h1>
@@ -46,3 +40,4 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
