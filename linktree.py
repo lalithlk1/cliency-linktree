@@ -23,7 +23,7 @@ links = [
     {"title": "📩 Book a Discovery Call", "url": "https://dub.sh/OF4NcEU"},
     {"title": "📺 Watch My Latest YouTube Video", "url": "https://yt.openinapp.co/mio3ivy"},
     {"title": "👔 Connect on LinkedIn", "url": "https://linkedin.openinapp.co/fsgh9"},
-    {"title": "💬 DM me on Insta","url": "https://instagram.com/lalith.io"},
+    {"title": "💬 DM me on Insta","url": "https://insta.openinapp.co/kqfdo"},
 ]
 
 # Loop through the links and create buttons
@@ -40,6 +40,7 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
 
 
 
