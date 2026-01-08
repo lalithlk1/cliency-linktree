@@ -6,7 +6,7 @@ st.set_page_config(page_title="Lalith | Cliency", page_icon="⚡", layout="cente
 
 st.markdown("""
     <div style='text-align: center;'>
-        <h1>Lalith.io</h1>
+        <h1>Lalith Kumar</h1>
         <p><b>Co-Founder, Cliency ⚡</b></p>
         <p>Building High-Leverage Personal Brands for Founders.</p>
         <p>GTM Engineer & Content Strategist.</p>
@@ -40,4 +40,5 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
 
