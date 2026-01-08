@@ -18,12 +18,12 @@ st.write("---") # A subtle divider line
 # 3. THE LINKS (The Meat)
 # We use a dictionary so it's easy to add/remove links later
 links = [
-    {"title": "🌐 Visit our Website", "url": "https://bit.ly/3Nz51Rs"},
-    {"title": "💬 WhatsApp Me (Direct)", "url": "https://https://bit.ly/45DQH0b"}, # Replace with your number
+    {"title": "🌐 Visit our Website", "url": "https://dub.sh/HpNYwqH"},
+    {"title": "💬 WhatsApp Me (Direct)", "url": "https://dub.sh/QpfIZnM"}, # Replace with your number
     {"title": "📺 Watch My Latest YouTube Video", "url": "https://youtube.com/@lalith.io1"},
     {"title": "👔 Connect on LinkedIn", "url": "https://linkedin.com/in/lalithlk1"},
     {"title": "💬 DM me on Insta","url": "https://instagram.com/lalith.io"},
-    {"title": "📩 Book a Discovery Call", "url": "https://https://bit.ly/4aRI7i8"}
+    {"title": "📩 Book a Discovery Call", "url": "https://dub.sh/OF4NcEU"}
 ]
 
 # Loop through the links and create buttons
@@ -40,6 +40,7 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
 
 
 
